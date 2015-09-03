@@ -1,26 +1,23 @@
-# _Jon & Jeff's New Application_
+# _Jon & Jeff's About Us Page_
 
-##### _Lorem Ipsum Text, Today's Date_
+##### _We are swell guys, Second Class - 9/3/15_
 
 #### By _**Jeff Seymour & Jon Ewalt**_
 
 ## Description
 
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. Do you want other developers to use this code in their apps? Talk about things like that here in simple terms.}_
+_A short page describing a bit about Jon and Jeff._
 
 ## Setup
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* _Open in browser_
+* _Read_
 
-_{Leave nothing to chance! You want it to be easy for potential employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Are there other applications this app depends on?}_
+_Enjoy._
 
 ## Technologies Used
 
-_{Tell me about the languages you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+_HTML5_
 
 ### Legal
 
